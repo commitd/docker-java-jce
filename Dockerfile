@@ -1,4 +1,4 @@
-FROM commitd:java
+FROM committed:java
 MAINTAINER Committed Software <docker@committed.software>
 
 # Install the Java JCE Policy
